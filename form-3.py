@@ -32,7 +32,7 @@ def create_unit_key(x):
         return ','.join(x.dropna().astype(str))
 # In[3]:
 
-
+# Почему есть два одинаковых метода?
 def create_unit_key(x):
     x = x.dropna()
     if 'label' and 'value' in x:
