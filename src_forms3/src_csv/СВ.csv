@@ -1,0 +1,18 @@
+"type","name","label","minLength","maxLength","value","options"
+"divider","mechanical_puller","Съемник механический",,,,
+"field_text","carrying","Усилие, тc",,"30",,
+"field_text","screw_stroke","Ход винта, мм",,"30",,
+"field_select","the_number_of_captures","Количество захватов",,,,"2=2\r\n3=3\r\n4=4"
+"field_select","centering","Центрирование",,,,"Ручное=Ручное\r\nТраверсное=Траверсное"
+"field_select","the_design_of_the_grips","Конструкция захватов",,,,"Лаповая=Лаповая\r\nХомут=Хомут\r\nШпилька=Шпилька"
+"field_text","external_gripper_diameter_min","Венешний диаметр захвата (мм) мин",,"30",,
+"field_text","the_external_diameter_of_grip_max","Внешний диаметр захвата (мм) макс",,"30",,
+"field_text","inner_diameter_of_the_gripper_min","Внутренний диаметр захвата (мм) мин",,"30",,
+"field_text","inner_diameter_of_the_gripper_max","Внутренний диаметр захвата (мм) макс",,"30",,
+"field_text","depth_of_capture_min","Глубина захвата (мм) мин",,"30",,
+"field_text","gripping_depth_max","Глубина захвата (мм) макс",,"30",,
+"field_select","operating_mode","Режим работы",,,,"Кратковременный=Кратковременный\r\nПродолжительный=Продолжительный"
+"field_select","climatic_performance","Климатическое исполнение (ГОСТ 15150-69)",,,,"У=У\r\nУХЛ=УХЛ\r\nХЛ=ХЛ\r\nТВ=ТВ\r\nТС=ТС\r\nТ=Т\r\nО=О\r\nМ=М"
+"field_select","product_cat","Категория изделия (ГОСТ 15150-69)",,,,"1=1\r\n1,1=1,1\r\n2=2\r\n2,1=2,1\r\n3=3\r\n3,1=3,1\r\n4=4\r\n4,1=4,1\r\n4,2=4,2\r\n5=5\r\n5,1=5,1"
+"field_textarea","comments_to_the_order","Коментарии к заказу","5","1500",,
+"field_file","attachment","Прикрепить файл",,,,

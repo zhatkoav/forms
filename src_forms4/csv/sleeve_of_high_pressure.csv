@@ -1,0 +1,19 @@
+name,type,label,value,options
+sleeve_of_high_pressure,divider,Рукав высокого давления,,
+working_pressure,field_text,"Рабочее давление, МПа",,
+maximum_pressure,field_text,"Максимальное давление, МПа",,
+inner_diameter_of_the_sleeve,field_text,"Внутренний диаметр рукава, мм",,
+outer_diameter_of_the_sleeve,field_text,"Внешний диаметр рукава, мм",,
+length,field_text,"Длина, мм",,
+design_code_of_the_left_tip,field_text,Код исполнения левого наконечника,,
+angle_of_bend_of_the_left_tip_degree,field_text,"Угол изгиба левого наконечника, °градус",,
+thread_the_left_tip,field_text,Резьба левого наконечника,,
+angle_of_rotation_of_the_left_tip_relative_right_tip_degree,field_text,"Угол поворота левого наконечника относительно правого, °градус",,
+design_code_of_the_right_tip,field_text,Код исполнения правого наконечника,,
+angle_of_bend_of_the_right_tip_degree,field_text,"Угол изгиба правого наконечника, °градус",,
+thread_the_right_tip,field_text,Резьба правого наконечника,,
+operating_mode,field_select,Режим работы,,Кратковременный=Кратковременный\r\nПродолжительный=Продолжительный
+climatic_performance,field_select,Климатическое исполнение (ГОСТ 15150-69),,У=У\r\nУХЛ=УХЛ\r\nХЛ=ХЛ\r\nТВ=ТВ\r\nТС=ТС\r\nТ=Т\r\nО=О\r\nМ=М
+category_of_accommodation_according_to_gost,field_select,Категория размещения (ГОСТ 15150-69),,"1=1\r\n1,1=1,1\r\n2=2\r\n2,1=2,1\r\n3=3\r\n3,1=3,1\r\n4=4\r\n4,1=4,1\r\n4,2=4,2\r\n5=5\r\n5,1=5,1"
+comments_to_the_order,field_textarea,Комментарии к заказу,,
+attachment,field_file,Прикрепить файл,,

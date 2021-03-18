@@ -1,0 +1,16 @@
+name,type,label,value,options
+flange_spreader,divider,Разгонщик фланцев,,
+force_of_the_impact,field_text,"Усилие, тc",,
+principle_of_separation,field_select,Принцип разгонки,,Ступенчатый=Ступенчатый\r\nКлиновой=Клиновой
+type_of_spreader,field_select,Тип разгонщика,,Механический=Механический\r\nГидравлический=Гидравлический
+drive,field_select,Привод,,Выносной=Выносной\r\nВстроенный=Встроенный
+minimum_clearance_between_the_flanges,field_text,"Минимальный зазор между фланцами, мм",,
+maximum_separation_value,field_text,"Максимальная величина разгонки, мм",,
+diameter_range_of_separable_flanges,field_text,"Диапазон диаметров разгоняемых фланцев, мм",,
+working_pressure,field_text,"Рабочее давление, МПа",,
+thread_the_inlet_hole,field_text,Резьба маслоподводящего отверстия,,
+operating_mode,field_select,Режим работы,,Кратковременный=Кратковременный\r\nПродолжительный=Продолжительный
+climatic_performance,field_select,Климатическое исполнение (ГОСТ 15150-69),,У=У\r\nУХЛ=УХЛ\r\nХЛ=ХЛ\r\nТВ=ТВ\r\nТС=ТС\r\nТ=Т\r\nО=О\r\nМ=М
+category_of_accommodation_according_to_gost,field_select,Категория размещения (ГОСТ 15150-69),,"1=1\r\n1,1=1,1\r\n2=2\r\n2,1=2,1\r\n3=3\r\n3,1=3,1\r\n4=4\r\n4,1=4,1\r\n4,2=4,2\r\n5=5\r\n5,1=5,1"
+comments_to_the_order,field_textarea,Комментарии к заказу,,
+attachment,field_file,Прикрепить файл,,

@@ -1,0 +1,21 @@
+name,type,label,value,options
+hydraulic_pipe_bending_machine,divider,Трубогиб гидравлический,,
+force_of_the_impact,field_text,"Усилие, тc",,
+stock_stroke,field_text,"Ход штока, мм",,
+stock_return_type,field_select,Возврат штока,,Пружинный=Пружинный\r\nГидравлический=Гидравлический
+pump,field_select,Насос,,Выносной=Выносной\r\nВстроенный=Встроенный
+complete_set_of_pump_or_station,field_checkbox,Комплектация насосом/станцией,Да,
+pump,field_select,Насос,,Ручной=Ручной\r\nЭлектрический=Электрический
+electric_pump_motor_type,field_select,Тип двигателя электрического насоса,,"Электродвигатель переменного тока 380В, трехфазный, 50 Гц=Электродвигатель переменного тока 380В, трехфазный, 50 Гц\r\nЭлектродвигатель переменного тока 380В, трехфазный, 50 Гц=Электродвигатель переменного тока 380В, трехфазный, 50 Гц\r\nБензодвигатель=Бензодвигатель\r\nПневмодвигатель=Пневмодвигатель"
+type_of_remote_control_on_the_electric_pump,field_select,Тип пульта на электрическом насосе,,На станции=На станции\r\nДистанционный=Дистанционный\r\nНожной=Ножной\r\nРадиоуправление=Радиоуправление
+working_pressure,field_text,"Рабочее давление, МПа",,
+thread_the_inlet_hole,field_text,Резьба маслоподводящего отверстия,,
+diameter_of_bending_or_bending_radius,field_text,"Диаметр гиба, мм / Радиус гиба, мм",,
+wall_thickness_of_the_pipe,field_text,"Толщина стенки трубы, мм",,
+pipe_outer_diameter,field_text,"Наружный диаметр трубы, мм",,
+bend_angle_degrees,field_text,"Угол гиба, °градус",,
+operating_mode,field_select,Режим работы,,Кратковременный=Кратковременный\r\nПродолжительный=Продолжительный
+climatic_performance,field_select,Климатическое исполнение (ГОСТ 15150-69),,У=У\r\nУХЛ=УХЛ\r\nХЛ=ХЛ\r\nТВ=ТВ\r\nТС=ТС\r\nТ=Т\r\nО=О\r\nМ=М
+category_of_accommodation_according_to_gost,field_select,Категория размещения (ГОСТ 15150-69),,"1=1\r\n1,1=1,1\r\n2=2\r\n2,1=2,1\r\n3=3\r\n3,1=3,1\r\n4=4\r\n4,1=4,1\r\n4,2=4,2\r\n5=5\r\n5,1=5,1"
+comments_to_the_order,field_textarea,Комментарии к заказу,,
+attachment,field_file,Прикрепить файл,,

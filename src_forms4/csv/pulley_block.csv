@@ -1,0 +1,11 @@
+name,type,label,value,options
+pulley_block,divider,Блок роликовый,,
+lift_capacity,field_text,"Грузоподъемность, тс",,
+type_of_rigging_,field_select,Тип крепления,,Крюк=Крюк\r\nПроушина=Проушина
+number_of_pulleys,field_text,"Количество роликов, шт",,
+rope_diameter,field_text,"Диаметр каната, мм",,
+operating_mode,field_select,Режим работы,,Кратковременный=Кратковременный\r\nПродолжительный=Продолжительный
+climatic_performance,field_select,Климатическое исполнение (ГОСТ 15150-69),,У=У\r\nУХЛ=УХЛ\r\nХЛ=ХЛ\r\nТВ=ТВ\r\nТС=ТС\r\nТ=Т\r\nО=О\r\nМ=М
+category_of_accommodation_according_to_gost,field_select,Категория размещения (ГОСТ 15150-69),,"1=1\r\n1,1=1,1\r\n2=2\r\n2,1=2,1\r\n3=3\r\n3,1=3,1\r\n4=4\r\n4,1=4,1\r\n4,2=4,2\r\n5=5\r\n5,1=5,1"
+comments_to_the_order,field_textarea,Комментарии к заказу,,
+attachment,field_file,Прикрепить файл,,

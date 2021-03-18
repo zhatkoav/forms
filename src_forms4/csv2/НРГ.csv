@@ -1,0 +1,15 @@
+name,type,label,value,options
+,,,,
+,,,,
+material,field_select,Материал,,Сталь=Сталь\r\nАлюминий=Алюминий
+,,,,
+working_pressure,field_text,"Рабочее давление, МПа",,
+,,,,
+,,,,
+,,,,
+,,,,
+operating_mode,field_select,Режим работы,,Кратковременный=Кратковременный\r\nПродолжительный=Продолжительный
+climatic_performance,field_select,Климатическое исполнение (ГОСТ 15150-69),,У=У\r\nУХЛ=УХЛ\r\nХЛ=ХЛ\r\nТВ=ТВ\r\nТС=ТС\r\nТ=Т\r\nО=О\r\nМ=М
+,,,,
+comments_to_the_order,field_textarea,Комментарии к заказу,,
+attachment,field_file,Прикрепить файл,,

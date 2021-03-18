@@ -1,0 +1,22 @@
+name,type,label,value,options
+general_industrial_hydraulic_press,divider,Пресс гидравлический общепромышленный,,
+force_of_the_impact,field_text,"Усилие, тc",,
+stock_stroke,field_text,"Ход штока, мм",,
+stock_return_type,field_select,Возврат штока,,Пружинный=Пружинный\r\nГидравлический=Гидравлический
+number_of_hydraulic_cylinders,field_text,Количество гидроцилиндров,,
+working_pressure,field_text,"Рабочее давление, МПа",,
+thread_the_inlet_hole,field_text,Резьба маслоподводящего отверстия,,
+working_space_height_min,field_text,"Рабочее пространство, мм высота (min)",,
+working_space_height_max,field_text,"Рабочее пространство, мм высота (max)",,
+working_space_length,field_text,"Рабочее пространство, мм длина",,
+working_space_width,field_text,"Рабочее пространство, мм ширина",,
+thread_in_stock,field_text,"Резьба в штоке, мм",,
+thread_on_the_rod,field_text,"Резьба на штоке, мм",,
+presence_of_a_pressed_matrix,field_checkbox,Наличие прессуемой матрицы,Да,
+working_matrix_size_length,field_text,"Рабочий размер матрицы, мм длина",,
+working_matrix_size_width,field_text,"Рабочий размер матрицы, мм ширина",,
+operating_mode,field_select,Режим работы,,Кратковременный=Кратковременный\r\nПродолжительный=Продолжительный
+climatic_performance,field_select,Климатическое исполнение (ГОСТ 15150-69),,У=У\r\nУХЛ=УХЛ\r\nХЛ=ХЛ\r\nТВ=ТВ\r\nТС=ТС\r\nТ=Т\r\nО=О\r\nМ=М
+category_of_accommodation_according_to_gost,field_select,Категория размещения (ГОСТ 15150-69),,"1=1\r\n1,1=1,1\r\n2=2\r\n2,1=2,1\r\n3=3\r\n3,1=3,1\r\n4=4\r\n4,1=4,1\r\n4,2=4,2\r\n5=5\r\n5,1=5,1"
+comments_to_the_order,field_textarea,Комментарии к заказу,,
+attachment,field_file,Прикрепить файл,,
