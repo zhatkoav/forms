@@ -1,7 +1,7 @@
 name,type,label,value,options
 pulley_block,divider,Блок роликовый,,
 lift_capacity,field_text,"Грузоподъемность, тс",,
-type_of_rigging_,field_select,Тип крепления,,Крюк=Крюк\r\nПроушина=Проушина
+type_of_rigging,field_select,Тип крепления,,Крюк=Крюк\r\nПроушина=Проушина
 number_of_pulleys,field_text,"Количество роликов, шт",,
 rope_diameter,field_text,"Диаметр каната, мм",,
 operating_mode,field_select,Режим работы,,Кратковременный=Кратковременный\r\nПродолжительный=Продолжительный
