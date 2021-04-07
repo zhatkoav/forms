@@ -1,2 +1,2 @@
-env\Scripts\Activate.ps1
+conda activate forms
 jupyter lab
