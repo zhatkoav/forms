@@ -104,4 +104,3 @@ dependencies:
     - jupyterlab-git==0.24.0
     - nbdime==2.1.0
     - smmap==4.0.0
-prefix: /home/anton/anaconda3/envs/forms
